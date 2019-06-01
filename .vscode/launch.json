@@ -5,11 +5,16 @@
   "version": "0.2.0",
   "configurations": [
 
+  
+
+
+
+
     {
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}\\7.js"
+      "program": "${workspaceFolder}\\17.js"
     }
   ]
 }
